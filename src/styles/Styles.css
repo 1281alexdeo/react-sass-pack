@@ -1,0 +1,12 @@
+body {
+  color: #fff;
+  background: #333;
+  font-family: lato;
+  margin: 0;
+  padding: 0; }
+
+.margin-top-med {
+  margin-top: 4rem; }
+
+.navbar {
+  border-bottom: #008ed6 3px solid; }
